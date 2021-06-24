@@ -1,0 +1,16 @@
+{
+  "name": "npm-hola-mundo-v2021",
+  "version": "1.0.0",
+  "description": "dummy module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "juan <sry.lan11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {}
+}
