@@ -12,5 +12,13 @@
   "dependencies": {
     "axios": "^0.21.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jos-m/helloworld-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jos-m/helloworld-/issues"
+  },
+  "homepage": "https://github.com/jos-m/helloworld-#readme"
 }
